@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Laravel, Yii2, Codeigniter, Php, Docker, Java, Js, Ts, Node.js, Css, Html, and More**
+- 💬 Ask me about **Laravel, Yii2, Codeigniter, Php, Docker, Java, Js, Ts, Node.js, Css, Html, MySql and More**
 
 - 📫 How to reach me **kkloster7@gmail.com**
 
