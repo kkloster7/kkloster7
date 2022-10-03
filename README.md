@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **GO**
 
 - 💬 Ask me about **Laravel, Yii2, Codeigniter, Php, Docker, Java, Js, Ts, Node.js, Css, Html, MySql and More**
 
